@@ -28,7 +28,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![coffee machine](https://github.com/Sookchand/Coffee-Machine/assets/34344439/cea45e40-3ee4-4807-b664-7e77ee529a27)
+
 
 
 ## Tech Stack
